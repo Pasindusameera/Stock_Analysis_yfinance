@@ -1,1 +1,1 @@
-# Yfinance_Stock_Analysis
+Stock_Analysis_Yfinance
